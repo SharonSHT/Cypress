@@ -1,0 +1,3 @@
+Automatizacion https://petstore.swagger.io/ con Cypress y Javascript
+
+Se ejecutaron correctamente los scripts automatizados
